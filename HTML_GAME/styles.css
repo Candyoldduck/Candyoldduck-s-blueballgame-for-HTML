@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background: radial-gradient(circle, #4e54c8, #8f94fb);
+}
